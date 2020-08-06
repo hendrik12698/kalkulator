@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Kalkulator Keren by EKONYONTEK</title>
+    <title>Kalkulator Saya</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
